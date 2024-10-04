@@ -140,3 +140,4 @@ cdn-widget.callpage.io
 ||jivo.ru/*
 ||jivosite.ru/*
 ||jivosite.com/*
+||code.jivosite.com^
